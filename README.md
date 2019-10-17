@@ -9,3 +9,5 @@ A repository is a storage space where your project lives. It can be local to a f
 
 Branches help you to work on different versions of a repository at one time. Let’s say you want to add a new feature (which is in the development phase), and you are afraid at the same time whether to make changes to your main project or not. This is where git branching comes to rescue. Branches allow you to move back and forth between the different states/versions of a project.
 
+Commit Command:
+This operation helps you to save the changes in your file.
