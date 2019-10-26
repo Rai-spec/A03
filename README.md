@@ -10,4 +10,13 @@ A repository is a storage space where your project lives. It can be local to a f
 Branches help you to work on different versions of a repository at one time. Let’s say you want to add a new feature (which is in the development phase), and you are afraid at the same time whether to make changes to your main project or not. This is where git branching comes to rescue. Branches allow you to move back and forth between the different states/versions of a project.
 
 Commit Command:
-This operation helps you to save the changes in your file.
+This operation helps you to save the changes in your file. When you commit a file, you should always provide the message, just to keep in the mind the changes done by you.
+
+Pull command:
+Pull command is the most important command in GitHub. It tell the changes done in the file and request other contributors to view it as well as merge it with the master branch. Once the commit is done, anyone can pull the file and can start a discussion over it.
+
+Merge command:
+Here comes the last command which merge the changes into the main master branch.
+
+Cloning: Before I actually talk about cloning a GitHub repository, first let us understand why do we need to clone a repository. The answer is simple! Suppose you want to use some code which is present in a public repository, you can directly copy the contents by cloning or downloading.
+
