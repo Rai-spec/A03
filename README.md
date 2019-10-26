@@ -26,3 +26,7 @@ Git fetch is a primary command used to download contents from a remote repositor
 
 A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub
 
+
+
+https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts
+https://www.edureka.co/blog/how-to-use-github/
