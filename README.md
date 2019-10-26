@@ -18,5 +18,11 @@ Pull command is the most important command in GitHub. It tell the changes done i
 Merge command:
 Here comes the last command which merge the changes into the main master branch.
 
+Merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
+
 Cloning: Before I actually talk about cloning a GitHub repository, first let us understand why do we need to clone a repository. The answer is simple! Suppose you want to use some code which is present in a public repository, you can directly copy the contents by cloning or downloading.
+
+Git fetch is a primary command used to download contents from a remote repository.
+
+A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub
 
