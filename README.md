@@ -24,7 +24,7 @@ Cloning: Before I actually talk about cloning a GitHub repository, first let us 
 
 Git fetch is a primary command used to download contents from a remote repository.
 
-A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub
+A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote repository is stored on a code hosting service like GitHub.
 
 
 
